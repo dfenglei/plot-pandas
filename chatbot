@@ -1,0 +1,126 @@
+Chatbot
+ParlAI
+
+A framework for training and evaluating AI models on a variety of openly available dialog datasets.
+
+github.com/facebookres…
+stanford-tensorflow-tutorials
+
+A neural chatbot using sequence to sequence model with attentional decoder.
+
+github.com/chiphuyen/s…
+ChatterBot
+
+ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+
+chatterbot.readthedocs.io/
+DeepQA
+
+My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot
+
+github.com/Conchylicul…
+neuralconvo
+
+Neural conversational model in Torch
+
+github.com/macournoyer…
+chatbot-rnn
+
+A toy chatbot powered by deep learning and trained on data from Reddit
+
+github.com/pender/chat…
+tf_seq2seq_chatbot
+
+tensorflow seq2seq chatbot
+
+github.com/nicolas-iva…
+ai-chatbot-framework
+
+A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+
+github.com/alfredfranc…
+DeepChatModels
+
+Conversation Models in Tensorflow
+
+github.com/mckinziebra…
+Chatbot
+
+Build your own chatbot base on IBM Watson
+
+webchatbot.mybluemix.net/
+Chatbot
+
+An AI Based Chatbot
+
+chatbot.sohelamin.com/
+neural-chatbot
+
+A chatbot based on seq2seq architecture done with tensorflow.
+
+github.com/inikdom/neu…
+Chinese_Chatbot
+Seq2Seq_Chatbot_QA
+
+使用TensorFlow实现的Sequence to Sequence的聊天机器人模型
+
+github.com/qhduan/Seq2…
+Chatbot
+
+基於向量匹配的情境式聊天機器人
+
+github.com/zake7749/Ch…
+chatbot-zh-torch7
+
+中文Neural conversational model in Torch
+
+github.com/majoressens…
+Corpus
+Cornell Movie-Dialogs Corpus
+
+www.cs.cornell.edu/~cristian/C…
+Dialog_Corpus
+
+Datasets for Training Chatbot System
+
+github.com/candlewill/…
+OpenSubtitles
+
+A series of scripts to download and parse the OpenSubtitles corpus.
+
+github.com/AlJohri/Ope…
+insuranceqa-corpus-zh
+
+OpenData in insurance area for Machine Learning Tasks
+
+github.com/Samurais/in…
+dgk_lost_conv
+
+dgk_lost_conv 中文对白语料 chinese conversation corpus
+
+github.com/majoressens…
+Papers
+Sequence to Sequence Learning with Neural Networks
+
+papers.nips.cc/paper/5346-…
+A Neural Conversational Model
+
+arxiv.org/pdf/1506.05…
+Tutorial
+Research Blog: Computer, respond to this email.
+
+research.googleblog.com/2015/11/com…
+Deep Learning for Chatbots, Part 1 – Introduction
+
+www.wildml.com/2016/04/dee…
+Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow
+
+www.wildml.com/2016/07/dee…
+More
+
+www.tensorflownews.com/
+
+    GitHub
+    HTTPS
+    TensorFlow
+    机器人
